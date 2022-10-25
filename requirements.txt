@@ -1,0 +1,59 @@
+# --------- pytorch --------- #
+torch
+torchvision
+pytorch-lightning
+segmentation_models_pytorch
+
+# --------- fastai --------- #
+fastai
+
+# --------- hydra --------- #
+hydra-core
+hydra-colorlog
+hydra-optuna-sweeper
+# hydra-ax-sweeper
+# hydra-ray-launcher
+# hydra-submitit-launcher
+
+# --------- loggers --------- #
+wandb
+# neptune-client
+# mlflow
+# comet-ml
+# torch_tb_profiler
+
+# --------- linters --------- #
+pre-commit      # hooks for applying linters on commit
+black           # code formatting
+isort           # import sorting
+flake8          # code analysis
+
+# --------- others --------- #
+python-dotenv   # loading env variables from .env file
+rich            # beautiful text formatting in terminal
+pytest          # tests
+sh              # for running bash commands in some tests
+scikit-learn    # used in some callbacks
+seaborn         # used in some callbacks
+jupyterlab      # better jupyter notebooks
+pudb            # debugger
+
+# --------- geo --------- #
+xarray
+rasterio
+geocube
+zarr
+fsspec
+geopandas
+netcdf4
+rioxarray
+xbatcher
+
+# --------- extra --------- #
+richdem
+numpy
+pathy
+pyyaml
+zarr
+dask
+gcsfs
