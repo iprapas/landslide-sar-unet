@@ -54,7 +54,7 @@ if __name__ == '__main__':
     pl.seed_everything(42)
     # create the datamodule from the appropriate parsed arguments
     dm = BeforeAfterCubeDataModule(
-        ds_path='/home/jupyter/datacubes/hokkaido_japan.zarr',
+        ds_path=hparams.ds_path,
         ba_vars=['vv', 'vh'],
         aggregation='mean',
         timestep_length=hparams.timestep_length,
