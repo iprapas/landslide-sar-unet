@@ -8,7 +8,7 @@ To run the experiments presented in the paper make sure to install the requireme
 
 ## Downloading the data 
 
-Download the data from [Zenodo](https://doi.org/10.5281/zenodo.7248056). Particularly, the [hokkaido datacube](https://zenodo.org/record/7248056/hokkaido_japan.zip) is needed.
+Download the data from [Zenodo](https://doi.org/10.5281/zenodo.7248056). Particularly, the [hokkaido datacube](https://zenodo.org/record/7248056/files/hokkaido_japan.zip) is needed.
 
 ## Running the experiments
 
