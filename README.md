@@ -1,6 +1,7 @@
 # Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes
 
-Repository for the paper "Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes"
+Repository for the paper [Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes](https://arxiv.org/abs/2211.02869)
+
 ## Installing the requirements
 To run the experiments presented in the paper make sure to install the requirements.
 
@@ -24,9 +25,28 @@ The experiments have run on an NVIDIA V100 GPU in Google Cloud.
 
 ## Citation
 
-If you use this code for your research, please cite our paper:
+If you use this code for your research, please cite our [paper](https://arxiv.org/abs/2211.02869):
 
-```TODO```
+```
+@misc{https://doi.org/10.48550/arxiv.2211.02869,
+  doi = {10.48550/ARXIV.2211.02869},
+  
+  url = {https://arxiv.org/abs/2211.02869},
+  
+  author = {Boehm, Vanessa and Leong, Wei Ji and Mahesh, Ragini Bal and Prapas, Ioannis and Nemni, Edoardo and Kalaitzis, Freddie and Ganju, Siddha and Ramos-Pollan, Raul},
+  
+  keywords = {Signal Processing (eess.SP), Computer Vision and Pattern Recognition (cs.CV), Image and Video Processing (eess.IV), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering, FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
+
 
 ## Acknowledgements
 
