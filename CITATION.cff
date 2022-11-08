@@ -46,7 +46,7 @@ authors:
     affiliation: 'Universidad de Antioquia, Colombia'
     orcid: 'https://orcid.org/0000-0001-6195-3612'
 preferred-citation:
-  type: article
+  type: conference-paper
   authors:
   - given-names: Vanessa
     family-names: Boehm
@@ -83,6 +83,8 @@ preferred-citation:
     affiliation: 'Universidad de Antioquia, Colombia'
     orcid: 'https://orcid.org/0000-0001-6195-3612'
   doi: "10.48550/arXiv.2211.02869"
-  journal: "arXiv"
+  conference:
+    name: "NeurIPS 2022 workshop on Tackling Climate Change with Machine Learning"
+    date-end: "2022-12-09"
   title: "Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes"
   year: 2022
