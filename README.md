@@ -50,4 +50,4 @@ If you use this code for your research, please cite our [paper](https://arxiv.or
 
 ## Acknowledgements
 
-This work has been enabled by the Frontier Development Lab Program (FDL). FDL is a collaboration between SETI Institute and Trillium Technologies Inc., in partnership with the Department of Energy (DOE), National Aeronautics and Space Administration (NASA), and the U.S. Geological Survey (USGS). The material is based upon work supported by NASA under award No(s) NNX14AT27A.
+This work has been enabled by the Frontier Development Lab Program (FDL). FDL is a collaboration between SETI Institute and Trillium Technologies Inc., in partnership with the Department of Energy (DOE), National Aeronautics and Space Administration (NASA), the U.S. Geological Survey (USGS), Google Cloud and NVIDIA. The material is based upon work supported by NASA under award No(s) NNX14AT27A.
