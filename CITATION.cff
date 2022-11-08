@@ -44,3 +44,44 @@ authors:
     family-names: Ramos-Pollan
     affiliation: 'Universidad de Antioquia, Colombia'
     orcid: 'https://orcid.org/0000-0001-6195-3612'
+preferred-citation:
+  type: article
+  authors:
+  - given-names: Vanessa
+    family-names: Boehm
+    affiliation: >-
+      University of California Berkeley, United
+      States
+    orcid: 'https://orcid.org/0000-0003-3801-1912'
+  - given-names: Wei Ji
+    family-names: Leong
+    affiliation: 'The Ohio State University, United States'
+    orcid: 'https://orcid.org/0000-0003-2354-1988'
+  - given-names: Ragini Bal
+    family-names: Mahesh
+    affiliation: 'German Aerospace Center DLR, Germany'
+    orcid: 'https://orcid.org/0000-0002-2747-9811'
+  - given-names: Ioannis
+    family-names: Prapas
+    affiliation: 'University of Valencia, Spain'
+    orcid: 'https://orcid.org/0000-0002-9111-4112'
+  - given-names: Edoardo
+    family-names: Nemni
+    affiliation: 'United Nations Satellite Centre, Switzerland'
+    orcid: 'https://orcid.org/0000-0002-0166-4613'
+  - family-names: Kalaitzis
+    given-names: Freddie
+    affiliation: 'University of Oxford, United Kingdom'
+    orcid: 'https://orcid.org/0000-0002-1471-646X'
+  - given-names: Siddha
+    family-names: Ganju
+    affiliation: 'NVIDIA, United States'
+    orcid: 'https://orcid.org/0000-0002-9462-4898'
+  - given-names: Raul
+    family-names: Ramos-Pollan
+    affiliation: 'Universidad de Antioquia, Colombia'
+    orcid: 'https://orcid.org/0000-0001-6195-3612'  doi: "10.1029/2019GC008515"
+  doi: "10.48550/arXiv.2211.02869"
+  journal: "arXiv"
+  title: "Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes"
+  year: 2022
