@@ -9,6 +9,7 @@ message: >-
   If you use this software, please cite it using the
   metadata from this file.
 type: software
+repository-code: "https://github.com/iprapas/landslide-sar-unet"
 authors:
   - given-names: Vanessa
     family-names: Boehm
@@ -80,7 +81,7 @@ preferred-citation:
   - given-names: Raul
     family-names: Ramos-Pollan
     affiliation: 'Universidad de Antioquia, Colombia'
-    orcid: 'https://orcid.org/0000-0001-6195-3612'  doi: "10.1029/2019GC008515"
+    orcid: 'https://orcid.org/0000-0001-6195-3612'
   doi: "10.48550/arXiv.2211.02869"
   journal: "arXiv"
   title: "Deep Learning for Rapid Landslide Detection using Synthetic Aperture Radar (SAR) Datacubes"
